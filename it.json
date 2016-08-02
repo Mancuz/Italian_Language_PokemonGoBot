@@ -1,0 +1,59 @@
+{           
+                         MAIN GUI
+			
+            Account type = "Tipo di Account:";
+            Username = "Username:";
+            Password = "Password:";
+            location settings = "Imposta Posizione";
+            speed = "Velocità:";
+            move radius = "Raggio:";
+            meters = "metri";
+            start from default location = "Inizia dalla posizione predefinita";
+            bot settings = "Impostazioni Bot";
+            auto transfer double pokemons = "Trasferisci automaticamente pokemon doppi";
+            max. duplicate pokemons = "Max. pokemon duplicati";
+            max. CP to transfer = "Max. CP per trasferire:";
+            max. IV to transfer = "Max. IV per trasferire:";
+            Telegram settings = "Impostazioni Telegram";
+            This Bot is absolutely free and open source! Chargeback if you've paid for it! = "Questo bot è gratis e open source! Chiedi un risarcimento se lo hai pagato";
+            Whenever you encounter something related to 'Pokecrot', tell them the Bot is stolen! = "Ogni volta che trovi qualcuno correlato alla 'Pokecrot', dicci che è stato rubato";
+            Max. Pokeballs = "Max. Pokeballs:";
+            Max. GreatBalls = "Max. MegaBalls:";
+            Max. UltraBalls = "Max. UltraBalls:";
+            Max. MasterBalls = "Max. MasterBalls:";
+            Max. Revives = "Max. Revitalizzante:";
+            Max. TopRevives = "Max. RevitalizzanteMax:";
+            Max. Potions = "Max. Pozione:";
+            Max. SuperPotions = "Max. SuperPotione:";
+            Max. HyperPotions = "Max. IperPozione:";
+            Max. TopPotions = "Max. PozioneMax:";
+            Max. RazzBerrys = "Max. Baccalampo:";
+            Total Count = "Conto Totale:";
+            Pokemons - Not to transfer = "Pokemon - Da non trasferire";
+            Select all = "Seleziona tutti";
+            Pokemons - Not to catch = "Pokemon - Da non catturare";
+            Select all = "Seleziona tutti";
+            Pokemons - To envolve = "Pokemon - Da evolvere";
+            Select all = "Seleziona tutti";
+            save configuration / start bot = "Salva Configuratione / Start Bot";
+            Other Settings = "Altri Settaggi";
+            Use LuckyEgg at Evolve = "Usare Fortunuovo Per le evoluzioni";
+            use german pokemons names = "Usa Nome Tedesco Per i Pokemon";
+            Use Incense every 30min = "Usa Aroma Ogni 30 min.";
+            Evolve Pokemons if enough candy = "Evolvi Pokemon Se Hai Abbastanza Caramelle";
+            Enable Pokemon List GUI = "Abilitare Schermata della Lista Pokemon";
+            Keep Pokemons which can be evolved = "Mantenere Pokemon Che Possono Essere Evoluti";
+			
+			
+			
+			
+			
+			          POKEMONS LIST GUI
+			
+			Reload = "Ricarica";
+            Evolve = "Evolvi (selezionato)";
+            Reload every = "Ricarica Ogni";
+            PowerUp = "Potenzia";
+            FULL-PowerUp = "Potenzia Al Massimo";
+            Transfer = "Trasferisci"
+}
